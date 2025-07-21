@@ -1589,11 +1589,13 @@ header .container nav .bar:hover i {
     display: flex;
     justify-content: space-between;
     margin-bottom: 50px;
-    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
 }
 
 .footer .container .socials i {
     font-size: 24px;
+    cursor: pointer;
 }
 
 .footer .container .socials i:hover {
