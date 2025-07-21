@@ -247,7 +247,7 @@ header .container nav .bar:hover i {
 /* start landing */
 .landing {
     height: 100vh;
-    background-image: url(imgs/owl.jpg);
+    background-image: url(../imgs/owl.jpg);
     background-size: cover;
     position: relative;
     /* background-position-y:-100px ; */
@@ -525,7 +525,7 @@ header .container nav .bar:hover i {
 /* end services */
 /* start design */
 .design {
-    background-image: url("..imgs/design.jpg");
+    background-image: url(../imgs/design.jpg);
     background-size: cover;
     position: relative;
     width: 100%;
@@ -782,7 +782,7 @@ header .container nav .bar:hover i {
 /* start stats */
 .stats {
     position: relative;
-    background-image: url(..imgs/stats1.jpg);
+    background-image: url(../imgs/stats1.jpg);
     background-size: cover;
     width: 100%;
     padding: var(--section-padding) 0;
@@ -1148,7 +1148,7 @@ header .container nav .bar:hover i {
 .quote {
     margin-top: var(--section-padding);
     position: relative;
-    background-image: url(imgs/baby.owl-s.jpg);
+    background-image: url(../imgs/baby.owl-s.jpg);
     background-size: cover;
     background-origin: 50% 50%;
     text-align: center;
@@ -1364,7 +1364,7 @@ header .container nav .bar:hover i {
 /* start subscribe */
 .subscribe {
     position: relative;
-    background-image: url(imgs/earth.jpg);
+    background-image: url(../imgs/earth.jpg);
     padding: 100px 0;
     background-size: cover;
 }
@@ -1546,7 +1546,7 @@ header .container nav .bar:hover i {
 /* end contact us */
 /* start footer */
 .footer {
-    background-image: url(imgs/earth.jpg);
+    background-image: url(../imgs/earth.jpg);
     background-size: cover;
     position: relative;
 }
